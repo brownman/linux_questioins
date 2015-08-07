@@ -2,7 +2,7 @@
 
  what is linux $DISPLAY ?
  -----------------
- 
+ - http://askubuntu.com/questions/432255/what-is-display-environment-variable
 
 
 what is a linux socket ?
