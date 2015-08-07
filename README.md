@@ -2,8 +2,7 @@
 
  what is linux $DISPLAY ?
  -----------------
-- what its features ?
-
+ 
 
 
 what is a linux socket ?
@@ -14,22 +13,31 @@ what is a linux socket ?
 what is a device driver ?
 ----------------------
 
-
+server
+-----
 what is localhost ?
-----------------
+ 
+
+ 
+
+security
+------
+how to attack firewall ?
+ 
 
 
-how strong is my firewall ?
--------------------
-
-
-
-how to attack a firewall ?
----------------------
-
-
-how to broadcast my screen and make it available for remote controll ?
+x-server
 ----------------------
+how to broadcast my screen and make it available for remote controll ?
 
 
-how to use python for connecting to wifi ?
+network
+------
+- how strong is my firewall ?
+- how to sniff 'ssh -X' ?
+- how to use python for connecting to wifi ?
+
+text
+----
+- what is tty ? 
+- how to broadcast text to another terminal ? 
