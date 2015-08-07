@@ -1,5 +1,11 @@
 # linux_questioins
 
+
+tcp dump
+-------------------
+- skype call
+- port  6000 (x-server)
+
  what is linux $DISPLAY ?
  -----------------
  - http://askubuntu.com/questions/432255/what-is-display-environment-variable
