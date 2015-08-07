@@ -1,10 +1,15 @@
 # linux_questioins
 
+ loopback interface ?
+---------------
+-
 
 tcp dump
 -------------------
+- sudo netstat -apn | grep 6010 your SSH should be listening on that port for the display connection. As far as I can tell it's 127.0.0.1 only. –
 - skype call
 - port  6000 (x-server)
+
 
  what is linux $DISPLAY ?
  -----------------
@@ -13,7 +18,6 @@ tcp dump
 
 what is a linux socket ?
 ---------------------
-
 
 
 what is a device driver ?
