@@ -16,7 +16,7 @@ tcp dump
  what is linux $DISPLAY ?
  -----------------
  - http://askubuntu.com/questions/432255/what-is-display-environment-variable
-
+- https://en.wikipedia.org/wiki/X_Window_System
 
 what is a linux socket ?
 ---------------------
