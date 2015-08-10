@@ -1,5 +1,11 @@
 # linux_questioins
 
+
+- tunnel
+- proxy
+- reverse proxy
+- 
+
  loopback interface ?
 ---------------
 -
