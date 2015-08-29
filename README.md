@@ -14,7 +14,7 @@
 tcp dump
 -------------------
 - sudo netstat -apn | grep 6010 your SSH should be listening on that port for the display connection. As far as I can tell it's 127.0.0.1 only. –
-- skype call
+- skype call 
 - port  6000 (x-server)
 - http://www.rackspace.com/knowledge_center/article/capturing-packets-with-tcpdump
 - -http://www.tcpdump.org/
