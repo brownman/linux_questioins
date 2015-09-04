@@ -18,7 +18,7 @@ tcp dump
 - port  6000 (x-server)
 - http://www.rackspace.com/knowledge_center/article/capturing-packets-with-tcpdump
 - -http://www.tcpdump.org/
-   
+    
  what is linux $DISPLAY ?  
  -----------------  
  - http://askubuntu.com/questions/432255/what-is-display-environment-variable
