@@ -19,7 +19,7 @@ tcp dump
 - http://www.rackspace.com/knowledge_center/article/capturing-packets-with-tcpdump
 - -http://www.tcpdump.org/
     
- what is linux $DISPLAY ?  
+ what is linux $DISPLAY ?   
  -----------------  
  - http://askubuntu.com/questions/432255/what-is-display-environment-variable
 - https://en.wikipedia.org/wiki/X_Window_System
