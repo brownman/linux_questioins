@@ -20,7 +20,7 @@ tcp dump
 - -http://www.tcpdump.org/
     
  what is linux $DISPLAY ?   
- -----------------  
+ -----------------   
  - http://askubuntu.com/questions/432255/what-is-display-environment-variable
 - https://en.wikipedia.org/wiki/X_Window_System
 - Network traffic between an X server and remote X clients is not encrypted by default. An attacker with a packet sniffer can intercept it, making it possible to view anything displayed to or sent from the user's screen. The most common way to encrypt X traffic is to establish a Secure Shell (SSH) tunnel for communication.
