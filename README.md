@@ -17,7 +17,7 @@ tcp dump
 - skype call 
 - port  6000 (x-server)
 - http://www.rackspace.com/knowledge_center/article/capturing-packets-with-tcpdump
-- -http://www.tcpdump.org/
+- -http://www.tcpdump.org/ 
     
  what is linux $DISPLAY ?   
  -----------------   
