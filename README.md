@@ -2,7 +2,7 @@
    
      
 - tunnel    
-- proxy
+- proxy 
 - reverse proxy 
 -   
      
