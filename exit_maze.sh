@@ -1,10 +1,10 @@
 set -e
-trap_exit(){
+trap_err(){
 echo $?
 }
 
 
-trap trap_exit EXIT
+trap trap_err ERR
 
 
 some_err || true
